@@ -3,5 +3,9 @@
 Inicializar el proyecto:
 
 - `npm i` (Instalar dependencias)
-- `npm run dev` (Ejecutar el proyecto en Local)
+- `npm start` (Ejecutar el proyecto en Local)
 - Acceder a la URL proporcionada por la terminal, por ejemplo: [http://localhost:5173/](http://localhost:5173/)
+
+Realizar pruebas unitarias en el proyecto
+
+* `npm run dev`
