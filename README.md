@@ -8,4 +8,4 @@ Inicializar el proyecto:
 
 Realizar pruebas unitarias en el proyecto
 
-* `npm run dev`
+* `npm run test`
